@@ -211,7 +211,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("বাড়িতে খাই ঝাটার বাড়ি, ফেসবুকে সে অ্যাটিটিউড নারী,😒🤣", threadID);
    };
 
-  if ((event.body.toLowerCase() == "surovi") || (event.body.toLowerCase() == "SUROVI")) {
+  if ((event.body.toLowerCase() == "surovi") || (event.body.toLowerCase() == "AUROVI")) {
      return api.sendMessage("খবরদার কেউ এই নাম দরে ডাক দিবানা এটা আমার বস 𝐒𝐌–𝐒𝐀𝐋𝐌𝐀𝐍 এর বউ এর নাম..!😠🥰⛏️", threadID);
    };
   
@@ -223,8 +223,8 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("বাড়িতে খাই ঝাটার বাড়ি, ফেসবুকে সে অ্যাটিটিউড নারী,😒🤣", threadID);
    };
 
-  if ((event.body.toLowerCase() == "Farabi") || (event.body.toLowerCase() == "tushar")) {
-     return api.sendMessage("🥰-তুষার-🌺 আমার বস 𓆩𝐒𝐀𝐋𝐌𝐀𝐍𓆪 এর কলিজার বড় ভাই লাগে লুচ্ছি বেডি'রা দূরে থাক😠🥰⛏️", threadID);
+  if ((event.body.toLowerCase() == "Farabi") || (event.body.toLowerCase() == "farabi")) {
+     return api.sendMessage("🥰-ফারাবি-🌺 আমার বস 𓆩𝐒𝐀𝐋𝐌𝐀𝐍𓆪 এর কলিজার বড় ভাই লাগে লুচ্ছি বেডি'রা দূরে থাক😠🥰⛏️", threadID);
    };
 
    if ((event.body.toLowerCase() == "KISS ME") || (event.body.toLowerCase() == "kiss me")) {
