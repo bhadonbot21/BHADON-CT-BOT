@@ -191,7 +191,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
    };
 
    if ((event.body.toLowerCase() == "bhabi") || (event.body.toLowerCase() == "vabi")) {
-     return api.sendMessage("আমার বস সালমান এর বউ আদুরী ভাবী কে ডাকিস না উনি বেস্ত আছে😡 .", threadID);
+     return api.sendMessage("আমার বস সালমান এর বউ সুরভী ভাবী কে ডাকিস না উনি বেস্ত আছে😡 .", threadID);
    };
 
   
@@ -211,11 +211,11 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("বাড়িতে খাই ঝাটার বাড়ি, ফেসবুকে সে অ্যাটিটিউড নারী,😒🤣", threadID);
    };
 
-  if ((event.body.toLowerCase() == "aduri") || (event.body.toLowerCase() == "ADURI")) {
+  if ((event.body.toLowerCase() == "surovi") || (event.body.toLowerCase() == "SUROVI")) {
      return api.sendMessage("খবরদার কেউ এই নাম দরে ডাক দিবানা এটা আমার বস 𝐒𝐌–𝐒𝐀𝐋𝐌𝐀𝐍 এর বউ এর নাম..!😠🥰⛏️", threadID);
    };
   
-  if ((event.body.toLowerCase() == "Aduri") || (event.body.toLowerCase() == "আদুরী")) {
+  if ((event.body.toLowerCase() == "Surovi") || (event.body.toLowerCase() == "সুরভী")) {
      return api.sendMessage("খবরদার কেউ এই নাম দরে ডাক দিবানা এটা আমার বস 𝐒𝐌–𝐒𝐀𝐋𝐌𝐀𝐍 এর বউ এর নাম..!😠🥰⛏️", threadID);
    };
 
@@ -223,7 +223,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("বাড়িতে খাই ঝাটার বাড়ি, ফেসবুকে সে অ্যাটিটিউড নারী,😒🤣", threadID);
    };
 
-  if ((event.body.toLowerCase() == "Tushar") || (event.body.toLowerCase() == "tushar")) {
+  if ((event.body.toLowerCase() == "Farabi") || (event.body.toLowerCase() == "tushar")) {
      return api.sendMessage("🥰-তুষার-🌺 আমার বস 𓆩𝐒𝐀𝐋𝐌𝐀𝐍𓆪 এর কলিজার বড় ভাই লাগে লুচ্ছি বেডি'রা দূরে থাক😠🥰⛏️", threadID);
    };
 
