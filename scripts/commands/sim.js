@@ -211,11 +211,11 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("বাড়িতে খাই ঝাটার বাড়ি, ফেসবুকে সে অ্যাটিটিউড নারী,😒🤣", threadID);
    };
 
-  if ((event.body.toLowerCase() == "surovi") || (event.body.toLowerCase() == "AUROVI")) {
+  if ((event.body.toLowerCase() == "mukta") || (event.body.toLowerCase() == "MUKTA")) {
      return api.sendMessage("খবরদার কেউ এই নাম দরে ডাক দিবানা এটা আমার বস 𝐒𝐌–𝐒𝐀𝐋𝐌𝐀𝐍 এর বউ এর নাম..!😠🥰⛏️", threadID);
    };
   
-  if ((event.body.toLowerCase() == "Surovi") || (event.body.toLowerCase() == "সুরভী")) {
+  if ((event.body.toLowerCase() == "Mukta") || (event.body.toLowerCase() == "মুক্তা")) {
      return api.sendMessage("খবরদার কেউ এই নাম দরে ডাক দিবানা এটা আমার বস 𝐒𝐌–𝐒𝐀𝐋𝐌𝐀𝐍 এর বউ এর নাম..!😠🥰⛏️", threadID);
    };
 
@@ -363,7 +363,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("আমার বস সালমান কে চোখে দেখো না নাকি__😒🥱", threadID);
    };
 
-   if ((event.body.toLowerCase() == "jama daw bot") || (event.body.toLowerCase() == "Jamai daw bot")) {
+   if ((event.body.toLowerCase() == "জামাই daw bot") || (event.body.toLowerCase() == "Jamai daw bot")) {
      return api.sendMessage("আমার বস সালমান কে চোখে দেখো না নাকি__😒🥱", threadID);
    };
 
